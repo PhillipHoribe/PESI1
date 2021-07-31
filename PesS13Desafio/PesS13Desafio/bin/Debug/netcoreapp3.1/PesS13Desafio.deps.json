@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PesS13Desafio/1.0.0": {
+        "runtime": {
+          "PesS13Desafio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PesS13Desafio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

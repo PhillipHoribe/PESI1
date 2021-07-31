@@ -1,0 +1,12 @@
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\bin\Debug\netcoreapp3.1\PesS13Desafio.exe
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\bin\Debug\netcoreapp3.1\PesS13Desafio.deps.json
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\bin\Debug\netcoreapp3.1\PesS13Desafio.runtimeconfig.json
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\bin\Debug\netcoreapp3.1\PesS13Desafio.runtimeconfig.dev.json
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\bin\Debug\netcoreapp3.1\PesS13Desafio.dll
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\bin\Debug\netcoreapp3.1\PesS13Desafio.pdb
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\obj\Debug\netcoreapp3.1\PesS13Desafio.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\obj\Debug\netcoreapp3.1\PesS13Desafio.AssemblyInfo.cs
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\obj\Debug\netcoreapp3.1\PesS13Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\obj\Debug\netcoreapp3.1\PesS13Desafio.dll
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\obj\Debug\netcoreapp3.1\PesS13Desafio.pdb
+C:\Users\Philc\Desktop\Pes\PesS13Desafio\PesS13Desafio\obj\Debug\netcoreapp3.1\PesS13Desafio.genruntimeconfig.cache

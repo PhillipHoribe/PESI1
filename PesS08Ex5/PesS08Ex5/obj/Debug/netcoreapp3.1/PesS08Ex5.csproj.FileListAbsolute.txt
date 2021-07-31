@@ -1,0 +1,13 @@
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\bin\Debug\netcoreapp3.1\PesS08Ex5.exe
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\bin\Debug\netcoreapp3.1\PesS08Ex5.deps.json
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\bin\Debug\netcoreapp3.1\PesS08Ex5.runtimeconfig.json
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\bin\Debug\netcoreapp3.1\PesS08Ex5.runtimeconfig.dev.json
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\bin\Debug\netcoreapp3.1\PesS08Ex5.dll
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\bin\Debug\netcoreapp3.1\PesS08Ex5.pdb
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\obj\Debug\netcoreapp3.1\PesS08Ex5.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\obj\Debug\netcoreapp3.1\PesS08Ex5.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\obj\Debug\netcoreapp3.1\PesS08Ex5.AssemblyInfo.cs
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\obj\Debug\netcoreapp3.1\PesS08Ex5.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\obj\Debug\netcoreapp3.1\PesS08Ex5.dll
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\obj\Debug\netcoreapp3.1\PesS08Ex5.pdb
+C:\Users\Philc\Desktop\Pes\PesS08Ex5\PesS08Ex5\obj\Debug\netcoreapp3.1\PesS08Ex5.genruntimeconfig.cache
